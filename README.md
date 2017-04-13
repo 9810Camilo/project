@@ -1,2 +1,0 @@
-# project
-juego en javascrip
